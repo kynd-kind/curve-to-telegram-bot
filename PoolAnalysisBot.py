@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: kynd_kind
+@author: kynd-kind
 """
 
 import requests
